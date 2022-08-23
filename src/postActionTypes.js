@@ -1,0 +1,4 @@
+export const ACTION_TYPES = {
+  FETCH_NAME: 'FETCH_NAME',
+  FETCH_CITY: 'FETCH_CITY',
+};
